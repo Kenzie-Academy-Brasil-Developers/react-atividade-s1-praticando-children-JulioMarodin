@@ -1,0 +1,10 @@
+.Card {
+  display: block;
+  background-color: #7209b7;
+  width: 200px;
+  height: 200px;
+  padding-top: 85px;
+  box-sizing: border-box;
+  margin-right: 20px;
+  font-family: 'Fira Code';
+}
